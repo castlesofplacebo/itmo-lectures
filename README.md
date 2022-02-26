@@ -21,3 +21,11 @@
 * [01 Введение. Информационные системы](https://github.com/castlesofplacebo/itmo-lectures/blob/master/IS%20architecture/lec_01.pdf)
 
 </details>
+<details>
+  <summary>Философия</summary>
+  
+* [01 Введение. Что изучает философия?](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/01.pdf)
+* [02 Теории истинности](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/02.pdf)
+* [02 (практика) Размышления о первой философии Декарта](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/02pr.pdf)
+
+</details>
