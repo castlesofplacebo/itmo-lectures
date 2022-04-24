@@ -27,5 +27,10 @@
 * [01 Введение. Что изучает философия?](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/01.pdf)
 * [02 Теории истинности](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/02.pdf)
 * [02 (практика) Размышления о первой философии Декарта](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/02pr.pdf)
+* [03 Парменид](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/03.pdf)
+* [04 История онтологии](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/04.pdf)
+* [04 (практика) Нагель и Плейс](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/04pr.pdf)
+* [05 (практика) Обобщение](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/05pr.pdf)
+* [06 Обобщение](https://github.com/castlesofplacebo/itmo-lectures/blob/master/philosophy/06.pdf)
 
 </details>
